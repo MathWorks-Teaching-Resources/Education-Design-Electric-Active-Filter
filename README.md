@@ -6,7 +6,7 @@
 このコンテンツはMATLAB,Simulink,Simscapeを活用してアクテイブフィルタ回路の設計を体験できる教材用デモファイルです。
 MathWorks &reg;のツールを活用することで、理論のベースになる代数式モデル、フィルタの設計に欠かせない伝達関数モデル、そしてブロック線図および回路図記述ができるグラフィカルなシミュレーション環境が一つの環境で行えることが理解できます。
 
-<img src="FY22ElectrificationEduSeminor_SampleMovie.mp4">
+https://user-images.githubusercontent.com/62166747/206339292-b4511d84-cc81-4505-b0a8-4b8610a91144.mp4
 
 
 This content is a demo file for teaching materials to experience designing active filter circuits using MATLAB, Simulink, and Simscape.
