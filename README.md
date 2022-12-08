@@ -16,13 +16,13 @@ By using MathWorks &reg; tools, you can understand that an algebraic model is th
 ## Setup 
 
 To Run:
-1. プロジェクトファイルを開く : DesignActiveFilter.proj
+1. プロジェクトファイルを開く : Education-Design-Electric-Active-Filter.prj
 2. ”プロジェクトショートカット”タブをクリック.
 3. Start Here!(OpenLiveScript)をクリック
 4. Live Scriptを実行
 
 To Run:
-1. Open Project File : DesignActiveFilter.proj
+1. Open Project File : Education-Design-Electric-Active-Filter.prj
 2. Click Project Shortcut Tab.
 3. Click Start Here!(OpenLiveScript)
 4. Run Live Script
