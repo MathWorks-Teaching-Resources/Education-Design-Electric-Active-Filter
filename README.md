@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/62166747/206339292-b4511d84-cc81-4505-
 
 This content is a demo file for teaching materials to experience designing active filter circuits using MATLAB, Simulink, and Simscape.
 
-By using MathWorks &reg; tools, you can understand that an algebraic model is the base of the theory, a transfer function model is essential for filter design, and a graphical simulation environment that allows block diagrams and schematic descriptions can be performed in a single environment.
+By using MathWorks &reg; tools, you can understand that an syimbolic model is the base of the theory, a transfer function model is essential for filter design, and a graphical simulation environment that allows block diagrams and schematic descriptions can be performed in a single environment.
 
 ## Setup 
 
